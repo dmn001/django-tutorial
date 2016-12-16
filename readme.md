@@ -1,4 +1,4 @@
-django-tutorial
+# django-tutorial
 
 https://docs.djangoproject.com/en/1.10/intro/tutorial01/
 
@@ -17,3 +17,14 @@ https://docs.djangoproject.com/en/1.10/intro/tutorial01/
 
 https://docs.djangoproject.com/en/1.10/intro/tutorial02/
 
+    python manage.py migrate
+
+    python manage.py makemigrations polls
+
+    python manage.py sqlmigrate polls 0001
+
+    python manage.py migrate
+
+    python manage.py shell
+
+    python manage.py createsuperuser
