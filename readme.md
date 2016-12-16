@@ -28,3 +28,8 @@ https://docs.djangoproject.com/en/1.10/intro/tutorial02/
     python manage.py shell
 
     python manage.py createsuperuser
+
+https://docs.djangoproject.com/en/1.10/intro/tutorial03/
+
+https://docs.djangoproject.com/en/1.10/intro/tutorial04/
+
