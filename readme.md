@@ -35,3 +35,5 @@ https://docs.djangoproject.com/en/1.10/intro/tutorial04/
 
 https://docs.djangoproject.com/en/1.10/intro/tutorial05/
 
+    python manage.py test polls
+
